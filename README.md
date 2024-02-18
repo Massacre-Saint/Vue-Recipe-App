@@ -1,5 +1,6 @@
 # Recipe App
-
+[Deployed Site](https://vue-recipefinder-app.netlify.app)
+<br>
 This recipe app lets users search for recipes by ingredients and save their favorites.
 
 ## Lessons Learned
